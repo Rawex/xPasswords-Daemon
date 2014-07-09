@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/react": "0.4.*",
+        "react/async": "~1.0",
+        "rmccue/requests": ">=1.0"
+    }
+}
